@@ -6,20 +6,21 @@ Since this list strives for completeness rather than listing only the best, it's
 
 ## Contents
 
-- [Libraries](#libraries)
+- [Guides](#guides)
 - [Plug-Ins](#plug-ins)
 - [Content Creating](#content-creating)
 - [Statistics](#statistics)
-- [Guides](#guides)
+- [Libraries](#libraries)
 - [Misc](#misc)
 
 **[`^        back to top        ^`](#)**
 
-## Libraries
+## Guides
 
-- [ESTools by comnom](https://github.com/comnom/ES-tools) - A collection of python scripts for working with ES datafiles. Includes a functional datafile parser.
-- [ESParser-java](https://github.com/EndlessSkyCommunity/ESParser-java) - A java port of comnom's datafile parser.
-- [Endless Sky Tools](https://github.com/endless-sky/endless-sky-tools) - Various small C++ programs to help with Endless Sky development.
+- [The Official Player's Manual](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) - The guide for general game mechanics.
+- [jafdy's Complete Mission Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=726997424) - A WIP that aims to cover all missions in the game.
+- [The Hitchhiker's Guide to the Galaxy](https://steamcommunity.com/sharedfiles/filedetails/?id=1364105450) - Covers the entire galaxy as of 0.9.8.
+- [Official FAQ](https://steamcommunity.com/sharedfiles/filedetails/?id=545464233) - MZ, the main dev, answering the most common questions.
 
 **[`^        back to top        ^`](#)**
 
@@ -56,12 +57,11 @@ Since this list strives for completeness rather than listing only the best, it's
 
 **[`^        back to top        ^`](#)**
 
-## Guides
+## Libraries
 
-- [The Official Player's Manual](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) - The guide for general game mechanics.
-- [jafdy's Complete Mission Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=726997424) - A WIP that aims to cover all missions in the game.
-- [The Hitchhiker's Guide to the Galaxy](https://steamcommunity.com/sharedfiles/filedetails/?id=1364105450) - Covers the entire galaxy as of 0.9.8.
-- [Official FAQ](https://steamcommunity.com/sharedfiles/filedetails/?id=545464233) - MZ, the main dev, answering the most common questions.
+- [ESTools by comnom](https://github.com/comnom/ES-tools) - A collection of python scripts for working with ES datafiles. Includes a functional datafile parser.
+- [ESParser-java](https://github.com/EndlessSkyCommunity/ESParser-java) - A java port of comnom's datafile parser.
+- [Endless Sky Tools](https://github.com/endless-sky/endless-sky-tools) - Various small C++ programs to help with Endless Sky development.
 
 **[`^        back to top        ^`](#)**
 
