@@ -17,34 +17,34 @@ Since this list strives for completeness rather than listing only the best, it's
 
 ## Guides
 
-- [The Official Player's Manual](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) - The guide for general game mechanics.
 - [jafdy's Complete Mission Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=726997424) - A WIP that aims to cover all missions in the game.
-- [The Hitchhiker's Guide to the Galaxy](https://steamcommunity.com/sharedfiles/filedetails/?id=1364105450) - Covers the entire galaxy as of 0.9.8.
 - [Official FAQ](https://steamcommunity.com/sharedfiles/filedetails/?id=545464233) - MZ, the main dev, answering the most common questions.
+- [The Hitchhiker's Guide to the Galaxy](https://steamcommunity.com/sharedfiles/filedetails/?id=1364105450) - Covers the entire galaxy as of 0.9.8.
+- [The Official Player's Manual](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) - The guide for general game mechanics.
 
 **[`^        back to top        ^`](#)**
 
 ## Plug-Ins
 
 - [All Content Plug-In](https://github.com/endless-sky/all-content-plugin) - Allows you to buy every ship & outfit right off the bat.
-- [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
-- [Omnia-Contentus](https://github.com/Darcman99/Omnia-Contentus) - Yet another all-content plugin which like World Forge, hides the content behind a wormhole. Support for several community plugins, vanilla variants, even arena fights.
+- [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
 - [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
 - [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
-- [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
+- [Omnia-Contentus](https://github.com/Darcman99/Omnia-Contentus) - Yet another all-content plugin which like World Forge, hides the content behind a wormhole. Support for several community plugins, vanilla variants, even arena fights.
 - [Sarcina](https://github.com/Darcman99/Sarcina) - Several new ships, outfits, and all kinds of features to be discovered.
+- [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
 
 **[`^        back to top        ^`](#)**
 
 ## Content Creating
 
-- [The Endless Sky Wiki](https://github.com/endless-sky/endless-sky/wiki#creating-ships-missions-artwork-etc) - Covers all ways of creating content, be it as plug-in or as contribution to the game.
-- [Endless Sky Editor](https://github.com/endless-sky/endless-sky-editor) - The Map editor for Endless Sky.
-- [CreatePlant-Gimp](https://github.com/EndlessSkyCommunity/CreatePlanet-Gimp) - A Plug-In for [The Gimp](https://www.gimp.org/) which automates the process of [creating Planet Sprites](https://github.com/endless-sky/endless-sky/wiki/PlanetSprites).
 - [Assets for Endless Sky](https://drive.google.com/drive/folders/0B9aK8dG39P29fkdBeUJjSXJYVDdjMEpkOXh3T1NDekFYaTEtbkdTdzVwX2NTUWVVT3BUWVk) - All image assets and their source files ([Mirror](https://endlesssky.mcofficer.me/assets/)).
-- [Wrzlprnft's Ship Builder](https://endless-sky.github.io/ship_builder.html) - Generates ship hardpoints for you.
-- [Onion's Ship Builder](https://onion-s.gitlab.io/Ship-Builder/) - Based on Wrzlprnft's ship builder, this tool strives to generate the entire ship definition for you.
+- [CreatePlant-Gimp](https://github.com/EndlessSkyCommunity/CreatePlanet-Gimp) - A Plug-In for [The Gimp](https://www.gimp.org/) which automates the process of [creating Planet Sprites](https://github.com/endless-sky/endless-sky/wiki/PlanetSprites).
+- [Endless Sky Editor](https://github.com/endless-sky/endless-sky-editor) - The Map editor for Endless Sky.
 - [Guide to Creating Sound Effects](https://steamcommunity.com/sharedfiles/filedetails/?id=774903151) - For those who want to contribute audio.
+- [Onion's Ship Builder](https://onion-s.gitlab.io/Ship-Builder/) - Based on Wrzlprnft's ship builder, this tool strives to generate the entire ship definition for you.
+- [The Endless Sky Wiki](https://github.com/endless-sky/endless-sky/wiki#creating-ships-missions-artwork-etc) - Covers all ways of creating content, be it as plug-in or as contribution to the game.
+- [Wrzlprnft's Ship Builder](https://endless-sky.github.io/ship_builder.html) - Generates ship hardpoints for you.
 
 **[`^        back to top        ^`](#)**
 
@@ -59,18 +59,18 @@ Since this list strives for completeness rather than listing only the best, it's
 
 ## Libraries
 
-- [ESTools by comnom](https://github.com/comnom/ES-tools) - A collection of python scripts for working with ES datafiles. Includes a functional datafile parser.
-- [ESParser-java](https://github.com/EndlessSkyCommunity/ESParser-java) - A java port of comnom's datafile parser.
 - [Endless Sky Tools](https://github.com/endless-sky/endless-sky-tools) - Various small C++ programs to help with Endless Sky development.
+- [ESParser-java](https://github.com/EndlessSkyCommunity/ESParser-java) - A java port of comnom's datafile parser.
+- [ESTools by comnom](https://github.com/comnom/ES-tools) - A collection of python scripts for working with ES datafiles. Includes a functional datafile parser.
 
 **[`^        back to top        ^`](#)**
 
 ## Misc
 
+- [3D Ship Gallery](https://endlesssky.mcofficer.me/ship_gallery/) - Allows to view all the ship models in the browser.
+- [Cards Against Endless Sky](https://www.cardcastgame.com/browse/deck/CYX6P) - A collaborative Endless Sky-themed deck for Cards Against Humanity
 - [EndlessSky-Discord-Bot](https://github.com/EndlessSkyCommunity/EndlessSky-Discord-Bot) - James, a Discord Bot focused on Endless Sky.
 - [ES Nightly Builds](https://steamcommunity.com/app/404410/discussions/0/1700542332319963311/) - Inofficial Builds for OSX and Windows. Also includes Windows Builds for the [Map Editor](#content-creating).
-- [3D Ship Gallery](https://endlesssky.mcofficer.me/ship_gallery/) - Allows to view all the ship models in the browser.
 - [Online Map](https://endlesssky.mcofficer.me/map/) - The Endless Sky Map, online (WIP).
-- [Cards Against Endless Sky](https://www.cardcastgame.com/browse/deck/CYX6P) - A collaborative Endless Sky-themed deck for Cards Against Humanity
 
 **[`^        back to top        ^`](#)**
