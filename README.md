@@ -69,5 +69,6 @@ Since this list strives for completeness rather than listing only the best, it's
 - [ES Nightly Builds](https://steamcommunity.com/app/404410/discussions/0/1700542332319963311/) - Inofficial Builds for OSX and Windows. Also includes Windows Builds for the [Map Editor](#content-creating).
 - [3D Ship Gallery](https://endlesssky.mcofficer.me/ship_gallery/) - Allows to view all the ship models in the browser.
 - [Online Map](https://endlesssky.mcofficer.me/map/) - The Endless Sky Map, online (WIP).
+- [Cards Against Endless Sky](https://www.cardcastgame.com/browse/deck/CYX6P) - A collaborative Endless Sky-themed deck for Cards Against Humanity
 
 **[`^        back to top        ^`](#)**
