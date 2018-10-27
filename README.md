@@ -47,6 +47,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [The Endless Sky Wiki](https://github.com/endless-sky/endless-sky/wiki#creating-ships-missions-artwork-etc) - Covers all ways of creating content, be it as plug-in or as contribution to the game.
 - [Wrzlprnft's Ship Builder](https://endless-sky.github.io/ship_builder.html) - Generates ship hardpoints for you.
 - [endlessskydata_vimsyntax](https://github.com/Muffindrake/endlessskydata_vimsyntax) - Vim Syntax Highlighting for Endless Sky datafiles.
+- [ES-Syntax-Highlighter](https://github.com/Kryes-Omega/ES-Syntax-Highlighter) - Notepad++ Syntax Highlighting for Endless Sky datafiles.
 
 **[`^        back to top        ^`](#)**
 
