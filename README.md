@@ -32,6 +32,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
 - [Omnia-Contentus](https://github.com/Darcman99/Omnia-Contentus) - Yet another all-content plugin which like World Forge, hides the content behind a wormhole. Support for several community plugins, vanilla variants, even arena fights.
 - [Sarcina](https://github.com/Darcman99/Sarcina) - Several new ships, outfits, and all kinds of features to be discovered.
+- [The Adamas Project](https://github.com/toilethinges/Adamas-Project) - Several new ships, many outfits, and a variety of other things to be discovered.
 - [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
 
 **[`^        back to top        ^`](#)**
