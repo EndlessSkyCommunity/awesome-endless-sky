@@ -34,6 +34,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Sarcina](https://github.com/Darcman99/Sarcina) - Playground plugin, several new ships and outfits, not focused on adding content to vanilla galaxy so much of it is unavailable without an all-content plugin.
 - [The Adamas Project](https://github.com/toilethinges/Adamas-Project) - Several new ships, many outfits, and a variety of other things to be discovered.
 - [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
+- [es-plugin-maintenance](https://github.com/comnom/es-plugin-maintenance) - An attempt to keep abandoned plug-ins uptodate.
 
 **[`^        back to top        ^`](#)**
 
