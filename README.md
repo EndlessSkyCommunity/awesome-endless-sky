@@ -55,7 +55,7 @@ Since this list strives for completeness rather than listing only the best, it's
 ## Statistics
 
 - [Derpy Horse's Spreadsheets](https://drive.google.com/drive/folders/0B635z_nU19WfQllrM2V2dWpFSFk) - An up-to-date collection of spreadsheets comparing ships & outfits.
-- [Endless Sky at 7vn.io](http://endless-sky.7vn.io) - Slightly outdated comparison of ships & outfits.
+- [Endless Sky at 7vn.io](http://endless-sky.7vn.io) ([Development Version](http://dev.endless-sky.7vn.io/)) - Comparison of ships & outfits for the latest version and source, respectively.
 - [Endless Ships](https://bunker.tejat.net/endless-ships/) and [Endless Outfits](https://bunker.tejat.net/endless-outfits/) at tejat.net - Lightweight online resources for ships and outfits alike.
 - [Endless Sky Wikia](http://endless-sky.wikia.com) - The Fan-driven wiki for Endless Sky.
 - [ES-AMC](https://github.com/tehhowch/es-amc) - A C++ program to compare Anti-Missile performance.
