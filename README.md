@@ -35,7 +35,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [The Adamas Project](https://github.com/toilethinges/Adamas-Project) - Several new ships, many outfits, and a variety of other things to be discovered.
 - [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
 - [es-plugin-maintenance](https://github.com/comnom/es-plugin-maintenance) - An attempt to keep abandoned plug-ins uptodate.
-
+- [Animated ships!](https://github.com/beccabunny/Animated-ships) -Have you ever looked at the game ships and thought that they looked a bit boring? Well, this plugin adds animations to many of them, including some of the ones introduced in the nightly and some of the plugin Spice of @darcman99 (but can be played without them)
 **[`^        back to top        ^`](#)**
 
 ## Content Creating
