@@ -65,9 +65,13 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
 - [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
 - [es-plugin-maintenance](https://github.com/comnom/es-plugin-maintenance) - An attempt to keep abandoned plug-ins uptodate.
-- [Omnis](https://github.com/Darcman99/Omnia-Contentus) - Yet another all-content plugin which like World Forge, hides the content behind a wormhole. Support for several community plugins, arena fights, and plenty other handy features. (Supports Sarcina)
-- [Sarcina](https://github.com/Darcman99/Sarcina) - Playground plugin, several new ships and outfits, not focused on adding content to vanilla galaxy so much of it is unavailable without an all-content plugin.
+- [Forte](https://github.com/Darcman99/Forte) - The aim of this plugin is to rebalance combat such as to make it feel more real, lengthening the duration of battles for example.
+- [Omnis](https://github.com/Darcman99/Omnis) - Yet another all-content plugin, this starts the player in a whole new galaxy which provides a gateway to and from the Milky Way. Provides a centralised system for all outfits and ships regardless of species, with various additional features too!
+- [Sarcina](https://github.com/Darcman99/Sarcina) - Playground plugin, several new ships and outfits, not focused on adding content to vanilla galaxy. Nothing is available without an all-content plugin, I suggest my all-content plugin, Omnis.
+- [Spice](https://github.com/Darcman99/Spice) - All about adding some spice up in your galaxy! Surely the spiciest!
+- [The Aben](https://github.com/Darcman99/The-Aben) - A race of technocrats who currently sit at under T1. They buy exotic technology from visitors and will eventually aid the player with a salary, and gradually improving outfits.
 - [The Adamas Project](https://github.com/toilethinges/Adamas-Project) - Several new ships, many outfits, and a variety of other things to be discovered.
+- [The Irm](https://github.com/Darcman99/The-Irm) - A new poorly hidden race located just west of Hai space, very advanced but isolationist and controls one singular star system. There are no missions per-say, only an introduction of sorts.
 - [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
 
 **[`^        back to top        ^`](#)**
