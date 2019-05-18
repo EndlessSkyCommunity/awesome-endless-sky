@@ -21,6 +21,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Assets for Endless Sky](https://drive.google.com/drive/folders/0B9aK8dG39P29fkdBeUJjSXJYVDdjMEpkOXh3T1NDekFYaTEtbkdTdzVwX2NTUWVVT3BUWVk) - All image assets and their source files ([Mirror](https://endlesssky.mcofficer.me/assets/)).
 - [CreatePlant-Gimp](https://github.com/EndlessSkyCommunity/CreatePlanet-Gimp) - A Plug-In for [The Gimp](https://www.gimp.org/) which automates the process of [creating Planet Sprites](https://github.com/endless-sky/endless-sky/wiki/PlanetSprites).
 - [Endless Sky Editor](https://github.com/endless-sky/endless-sky-editor) - The Map editor for Endless Sky.
+- [Endless Sky Mission Builder](https://github.com/shitwolfymakes/Endless-Sky-Mission-Builder) - A RAD tool to help decrease the time it takes to create missions for Endless Sky.
 - [endlessskydata_vimsyntax](https://github.com/Muffindrake/endlessskydata_vimsyntax) - Vim Syntax Highlighting for Endless Sky datafiles.
 - [ES-Syntax-Highlighter](https://github.com/Kryes-Omega/ES-Syntax-Highlighter) - Notepad++ Syntax Highlighting for Endless Sky datafiles.
 - [Guide to Creating Sound Effects](https://steamcommunity.com/sharedfiles/filedetails/?id=774903151) - For those who want to contribute audio.
