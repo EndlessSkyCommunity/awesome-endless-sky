@@ -45,6 +45,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Endless Sky Tools](https://github.com/endless-sky/endless-sky-tools) - Various small C++ programs to help with Endless Sky development.
 - [ESParser-java](https://github.com/EndlessSkyCommunity/ESParser-java) - A java port of comnom's datafile parser.
 - [ESTools by comnom](https://github.com/comnom/ES-tools) - A collection of python scripts for working with ES datafiles. Includes a functional datafile parser.
+- [zifnab](https://github.com/realityforge/zifnab) - A java library for reading and writing ES datafiles.
 
 **[`^        back to top        ^`](#)**
 
