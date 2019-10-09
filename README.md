@@ -69,6 +69,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Animated stars nove](https://github.com/Cat-Lady/animated-stars-nova) - Undisruptive Animated Stars for Endless Sky. Based on "animated stars" by Derpy Horse.
 - [Better Vanilla Pirates](https://github.com/ZBok/BetterVanillaPirates) - Do you love vanilla ES but wish that the human pirates, bounty hunters and related combat missions, were more interesting, and stayed challenging with worthwhile mission payouts even in the late game? 30+ new repeating missions and many extensive, progressive pirate improvements.
 - [Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements) - Continuation of tmbutterworth's plugin that adds additional hand-to-hand outfits and fully integrates them into the game's world.
+- [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo) - A feature-rich all-content plugin suitable for both content creators and casual players.
 - [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
 - [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
 - [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
