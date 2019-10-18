@@ -63,20 +63,20 @@ Since this list strives for completeness rather than listing only the best, it's
 ## Plug-Ins
 
 - [Adde](https://github.com/Darcman99/Adde-Endless-Sky) - A general expansion on the vanilla game in many different directions.
-- [Better Vanilla Pirates](https://github.com/ZBok/BetterVanillaPirates) - Do you love vanilla ES but wish that the human pirates, bounty hunters and related combat missions, were more interesting, and stayed challenging with worthwhile mission payouts even in the late game? 30+ new repeating missions and many extensive, progressive pirate improvements.
+- [All Content Plug-In](https://github.com/endless-sky/all-content-plugin) - Allows you to buy every ship & outfit right off the bat.
 - [Animated ships!](https://github.com/beccabunny/Animated-ships) - Have you ever looked at the ships and thought that they looked a bit boring? This plugin adds animations to many of them, including some from @Darcman99's Spice plugin.
 - [Animated ships (undisruptive)](https://github.com/Cat-Lady/undisruptive-animated-ships/releases) - Version with less disruptive, slower animations. Non-living ships made looks less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions.
 - [Animated stars Nova](https://github.com/Cat-Lady/animated-stars-nova/releases) - Undisruptive Animated Stars for Endless Sky. Based on "animated stars" by Derpy Horse. Every star system was hand-tweaked for the star to match lore/star type of vanilla Endless Sky.
+- [Better Vanilla Pirates](https://github.com/ZBok/BetterVanillaPirates) - Do you love vanilla ES but wish that the human pirates, bounty hunters and related combat missions, were more interesting, and stayed challenging with worthwhile mission payouts even in the late game? 30+ new repeating missions and many extensive, progressive pirate improvements.
 - [Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements/releases) -  It adds various human-space boarding related outfits, balanced around vanilla experience and fully integrated into game (purchase availability, usage by AI fleets, licenses required).
-- [Gatling Ammo Fix](https://github.com/Cat-Lady/Gatling-Ammo-Fix/releases) -  Fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be ("galactic south" and multipurpose ammo depots).
-- [swizzle-player](https://github.com/Cat-Lady/swizzle-player/releases) - Allows to change player's swizzle in "Endless Sky" - and keep the colour after ES get updates that change goverments.txt data file.
 - [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo) - A feature-rich all-content plugin suitable for both content creators and casual players.
 - [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
 - [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
 - [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
 - [es-plugin-maintenance](https://github.com/comnom/es-plugin-maintenance) - An attempt to keep abandoned plug-ins uptodate.
+- [Gatling Ammo Fix](https://github.com/Cat-Lady/Gatling-Ammo-Fix/releases) -  Fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be ("galactic south" and multipurpose ammo depots).
+- [swizzle-player](https://github.com/Cat-Lady/swizzle-player/releases) - Allows to change player's swizzle in "Endless Sky" - and keep the colour after ES get updates that change goverments.txt data file.
 - [The Adamas Project](https://github.com/toilethinges/Adamas-Project) - Several new ships, many outfits, and a variety of other things to be discovered.
-- [All Content Plug-In](https://github.com/endless-sky/all-content-plugin) - Allows you to buy every ship & outfit right off the bat.
 - [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
 
 **[`^        back to top        ^`](#)**
