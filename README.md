@@ -76,7 +76,6 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
 - [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
 - [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
-- [es-plugin-maintenance](https://github.com/comnom/es-plugin-maintenance) - An attempt to keep abandoned plug-ins uptodate.
 - [Flamethrower Turret](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret) - Adds a turret variant of the flamethrower.
 - [Gatling Ammo Fix](https://github.com/Cat-Lady/Gatling-Ammo-Fix) - Fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be ("galactic south" and multipurpose ammo depots).
 - [Korath Automation Upgrade](https://github.com/Kriegstofu/Korath-Automation-Upgrade) - A plugin for Endless Sky which adds a new Korath Warship after the end of the Korath/Wanderer Co-Op Mission.
