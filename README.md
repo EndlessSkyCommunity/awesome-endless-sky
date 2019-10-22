@@ -70,15 +70,21 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Becca's Endless Expansion](https://github.com/beccabunny/Beccas-Endless-Expansion) - New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.
 - [Better Vanilla Pirates](https://github.com/ZBok/BetterVanillaPirates) - Do you love vanilla ES but wish that the human pirates, bounty hunters and related combat missions, were more interesting, and stayed challenging with worthwhile mission payouts even in the late game? 30+ new repeating missions and many extensive, progressive pirate improvements.
 - [Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements) - Adds various human-space boarding related outfits, balanced around vanilla experience and fully integrated into game (purchase availability, usage by AI fleets, licenses required).
+- [Boarding Missions](https://github.com/tmbutterworth/boarding-missions) - Small plugin that adds chance for being rewarded for assisting disabled Milita, Free worlds, and Navy ships.
 - [Bounty Hunters/Bounties Hunted Fix](https://github.com/Cat-Lady/Bounty-Fix) - This plugin makes Pirates/Marauders that are subject of Bounty Hunting missions be properly seen as enemies by Militia/Navy/Deep Security/Merchants and other forces that should dislike Marauders/Pirates.
 - [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo) - A feature-rich all-content plugin suitable for both content creators and casual players.
 - [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
 - [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
 - [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
 - [es-plugin-maintenance](https://github.com/comnom/es-plugin-maintenance) - An attempt to keep abandoned plug-ins uptodate.
+- [Flamethrower Turret](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret) - Adds a turret variant of the flamethrower.
 - [Gatling Ammo Fix](https://github.com/Cat-Lady/Gatling-Ammo-Fix) - Fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be ("galactic south" and multipurpose ammo depots).
+- [Korath Automation Upgrade](https://github.com/Kriegstofu/Korath-Automation-Upgrade) - A plugin for Endless Sky which adds a new Korath Warship after the end of the Korath/Wanderer Co-Op Mission.
+- [Quarg Military Retaliation](https://groups.google.com/forum/#!msg/endless-sky/IkoSYsZgMlQ/qSZUvTjFAQAJ) - This plugin contains new ships, weapons, outfits, descriptions, and missions for the Quarg. The key feature is Quarg responses to being farmed. The response will start with increased patrols and escalate as farming continues to include hunter-killer groups, defense fleets, carriers, battleships, and more.
 - [swizzle-player](https://github.com/Cat-Lady/swizzle-player) - Allows to change player's swizzle in "Endless Sky" - and keep the colour after ES get updates that change goverments.txt data file.
 - [The Adamas Project](https://github.com/toilethinges/Adamas-Project) - Several new ships, many outfits, and a variety of other things to be discovered.
+- [The Enclave](https://github.com/Makuta-Miras/The-Enclave) - The Enclave focuses around the discovery of an isolated group of humans in a distant galaxy. Separated from the rest of their species for over half a millennium, how have these people developed?
+- [Ursa Polaris](https://steamcommunity.com/sharedfiles/filedetails/?id=631160921) - This plugin contains missions for your pilot to create a centrally located outfitter space station that stocks outfits from across the galaxy. It happens after main campaing and is aiming to be NOT overpowered.
 - [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
 
 **[`^        back to top        ^`](#)**
