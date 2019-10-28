@@ -62,7 +62,11 @@ Since this list strives for completeness rather than listing only the best, it's
 
 ## Plug-Ins
 
-- [Adde](https://github.com/Darcman99/Adde-Endless-Sky) - A general expansion on the vanilla game in many different directions.
+- [Adde Master](https://github.com/Darcman99/Adde-Endless-Sky/archive/master.zip) - A culmination of everything Adde has to offer.
+  - [Adde Aben](https://github.com/Darcman99/Adde-Endless-Sky/archive/Aben.zip) - New aliens that are uncapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.
+  - [Adde Irm](https://github.com/Darcman99/Adde-Endless-Sky/archive/Irm.zip) - New aliens to the north of human space that can only be described as technocratic isolationists. They will not begin or turn hostile towards the player under normal circumstances, but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.
+  - [Adde Misc](https://github.com/Darcman99/Adde-Endless-Sky/archive/Misc.zip) - All Adde content that does not belong to the branches Aben, Irm, or Omnis. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
+  - [Adde Omnis](https://github.com/Darcman99/Adde-Endless-Sky/archive/Omnis.zip) - The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more essential cheat tools are included into Omnis too!
 - [All Content Plug-In](https://github.com/endless-sky/all-content-plugin) - Allows you to buy every ship & outfit right off the bat.
 - [Animated ships!](https://github.com/beccabunny/Animated-ships) - Have you ever looked at the ships and thought that they looked a bit boring? This plugin adds animations to many of them, including some from @Darcman99's Spice plugin.
 - [Animated ships (undisruptive)](https://github.com/Cat-Lady/undisruptive-animated-ships) - Version with less disruptive, slower animations. Non-living ships made looks less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions.
