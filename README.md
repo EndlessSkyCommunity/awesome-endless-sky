@@ -80,7 +80,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo) - A feature-rich all-content plugin suitable for both content creators and casual players.
 - [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
 - [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
-- [Epic Trucker] (https://github.com/KelvallRogers/epic-trucker) - Large scale jobs for bigger cargo and passenger capacity fleets.
+- [Epic Trucker](https://github.com/KelvallRogers/epic-trucker) - Large scale jobs for bigger cargo and passenger capacity fleets.
 - [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
 - [Flamethrower Turret](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret) - Adds a turret variant of the flamethrower.
 - [Gatling Ammo Fix](https://github.com/Cat-Lady/Gatling-Ammo-Fix) - Fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be ("galactic south" and multipurpose ammo depots).
