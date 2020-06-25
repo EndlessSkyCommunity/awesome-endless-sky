@@ -62,36 +62,9 @@ Since this list strives for completeness rather than listing only the best, it's
 
 ## Plug-Ins
 
-- [Adde Misc](https://github.com/Darcman99/Adde-Endless-Sky) - Any Adde content that doesn't fit in another or deserve it's own branch. This includes many new outfits and ships for various aspects of the vanilla game, even new missions here and there.
-  - [Adde Aben](https://github.com/Darcman99/Adde-Endless-Sky/tree/Aben) - New aliens that are uncapable of spaceflight as far as the player is concerned, offers the player multiple missions in aiding the Aben which also benefit the player in turn.
-  - [Adde Irm](https://github.com/Darcman99/Adde-Endless-Sky/tree/Irm) - New aliens to the north of human space that can only be described as technocratic isolationists. They will not begin or turn hostile towards the player under normal circumstances, but you would be one unlucky pilot if you were to find yourself on bad terms with the Irm.
-  - [Adde Korath Expansion](https://github.com/Darcman99/Adde-Endless-Sky/tree/Korath-Expansion) - This plugin is intended to experiment with the Korath by creating new content for them in the form of ships, outfits, and missions. Any content I consider to fit well with vanilla is put alongside the existing Korath while any less fitting content is kept out of the vanilla experience, only accessible through Omnis.
-  - [Adde Omnis](https://github.com/Darcman99/Adde-Endless-Sky/tree/Omnis) - The most extensive all-content plugin to date. It includes many opportunities to test balance or ship builds against AI driven ships or fleets, all vanilla content and the content of many plugins available to use to put together different ship builds. Many more essential cheat tools are included into Omnis too!
-  - [Adde Quarg Expansion](https://github.com/Darcman99/Adde-Endless-Sky/tree/Quarg-Expansion) - This plugin was made to get an early glimpse into the possible future of the Quarg faction. Any content I consider to fit well with vanilla is put alongside the existing Quarg while any less fitting content is kept out of the vanilla experience, only accessible through Omnis.
-- [All Content Plug-In](https://github.com/endless-sky/all-content-plugin) - Allows you to buy every ship & outfit right off the bat.
-- [Animated ships!](https://github.com/beccabunny/Animated-ships) - Have you ever looked at the ships and thought that they looked a bit boring? This plugin adds animations to many of them, including some from @Darcman99's Spice plugin.
-- [Animated ships (undisruptive)](https://github.com/Cat-Lady/undisruptive-animated-ships) - Version with less disruptive, slower animations. Non-living ships made looks less organic/making breath-like motions. Living ships made look even more organic/making breath-like motions.
-- [Animated stars Nova](https://github.com/Cat-Lady/animated-stars-nova) - Undisruptive Animated Stars for Endless Sky. Based on "animated stars" by Derpy Horse. Every star system was hand-tweaked for the star to match lore/star type of vanilla Endless Sky.
-- [Becca's Endless Expansion](https://github.com/beccabunny/Beccas-Endless-Expansion) - New weapons, outfits and ships for many factions of the game Endless Sky, all with new sprites close to the vanilla ones! All you have to do is explore, fly in your ship and meet all the factions in the game.
-- [Better Boarding Pirates](https://github.com/Cat-Lady/BetterBoardingPirates) - This plugin integrates BetterVanillaPirates by Zbok with Boarding Enhancements. It fully integrates new outfits (from the latter) into fleets and ship variants (added by the former).
-- [Better Vanilla Pirates](https://github.com/ZBok/BetterVanillaPirates) - Do you love vanilla ES but wish that the human pirates, bounty hunters and related combat missions, were more interesting, and stayed challenging with worthwhile mission payouts even in the late game? 30+ new repeating missions and many extensive, progressive pirate improvements.
-- [Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements) - Adds various human-space boarding related outfits, balanced around vanilla experience and fully integrated into game (purchase availability, usage by AI fleets, licenses required).
-- [Boarding Missions](https://github.com/tmbutterworth/boarding-missions) - Small plugin that adds chance for being rewarded for assisting disabled Milita, Free worlds, and Navy ships.
-- [Bounty Hunters/Bounties Hunted Fix](https://github.com/Cat-Lady/Bounty-Fix) - This plugin makes Pirates/Marauders that are subject of Bounty Hunting missions be properly seen as enemies by Militia/Navy/Deep Security/Merchants and other forces that should dislike Marauders/Pirates.
-- [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo) - A feature-rich all-content plugin suitable for both content creators and casual players.
-- [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
-- [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
-- [Epic Trucker](https://github.com/KelvallRogers/epic-trucker) - Large scale jobs for bigger cargo and passenger capacity fleets.
-- [ES-HUDs](https://github.com/comnom/es-huds) - A collection of HUD plug-ins.
-- [Flamethrower Turret](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret) - Adds a turret variant of the flamethrower.
-- [Gatling Ammo Fix](https://github.com/Cat-Lady/Gatling-Ammo-Fix) - Fixes availability of Gatling Gun Ammo (and its boxes) - being most primitive and easiest to manufacture type of ordnance, it is now available where you would expect it to be ("galactic south" and multipurpose ammo depots).
-- [Korath Automation Upgrade](https://github.com/Kriegstofu/Korath-Automation-Upgrade) - A plugin for Endless Sky which adds a new Korath Warship after the end of the Korath/Wanderer Co-Op Mission.
-- [Quarg Military Retaliation](https://groups.google.com/forum/#!msg/endless-sky/IkoSYsZgMlQ/qSZUvTjFAQAJ) - This plugin contains new ships, weapons, outfits, descriptions, and missions for the Quarg. The key feature is Quarg responses to being farmed. The response will start with increased patrols and escalate as farming continues to include hunter-killer groups, defense fleets, carriers, battleships, and more.
-- [swizzle-player](https://github.com/Cat-Lady/swizzle-player) - Allows to change player's swizzle in "Endless Sky" - and keep the colour after ES get updates that change goverments.txt data file.
-- [The Adamas Project](https://github.com/toilethinges/Adamas-Project) - Several new ships, many outfits, and a variety of other things to be discovered.
-- [The Enclave](https://github.com/Makuta-Miras/The-Enclave) - The Enclave focuses around the discovery of an isolated group of humans in a distant galaxy. Separated from the rest of their species for over half a millennium, how have these people developed?
-- [Ursa Polaris](https://steamcommunity.com/sharedfiles/filedetails/?id=631160921) - This plugin contains missions for your pilot to create a centrally located outfitter space station that stocks outfits from across the galaxy. It happens after main campaing and is aiming to be NOT overpowered.
-- [World Forge](https://github.com/EndlessSkyCommunity/world-forge) - Alternative to the All Content Plug-In which hides the content behind a wormhole.
+- [endless-sky-plugins](https://github.com/EndlessSkyCommunity/endless-sky-plugins/) - An attempt at creating an official plug-in repository.
+- [ES-Mod-Share](https://opengamemods-group.github.io/ES-Mod-Share/) - A large plug-in site, deprecated in favour of a more official approach.
+- [Amazinite's Library of plugins](https://steamcommunity.com/app/404410/tradingforum/360671352681736707/) - A compiled list of all plug-ins that showed up in the steam forums.
 
 **[`^        back to top        ^`](#)**
 
