@@ -23,7 +23,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Endless Sky Editor](https://github.com/endless-sky/endless-sky-editor) - The Map editor for Endless Sky.
 - [Endless Sky Mission Builder](https://github.com/shitwolfymakes/Endless-Sky-Mission-Builder) - A RAD tool to help decrease the time it takes to create missions for Endless Sky.
 - [endlessskydata_vimsyntax](https://github.com/Muffindrake/endlessskydata_vimsyntax) - Vim Syntax Highlighting for Endless Sky datafiles.
-- [ES-Syntax-Highlighter](https://github.com/Kryes-Omega/ES-Syntax-Highlighter) - Notepad++ Syntax Highlighting for Endless Sky datafiles.
+- [ES-Syntax-Highlighter](https://github.com/jchamlin/ES-Syntax-Highlighter) - Notepad++ Syntax Highlighting for Endless Sky datafiles.
 - [Guide to Creating Sound Effects](https://steamcommunity.com/sharedfiles/filedetails/?id=774903151) - For those who want to contribute audio.
 - [Onion's Ship Builder](https://onion-s.gitlab.io/Ship-Builder/) - Based on Wrzlprnft's ship builder, this tool strives to generate the entire ship definition for you.
 - [Ship Viewer](https://darcman99.github.io/Endless-Sky-Ship-Viewer) - Provides various options to help with creating ships, including applying the different swizzle options to your ship, show the collision outline, and generating hardpoint locations for you.
