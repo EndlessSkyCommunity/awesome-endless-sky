@@ -47,6 +47,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [ESParser-java](https://github.com/EndlessSkyCommunity/ESParser-java) - A java port of comnom's datafile parser.
 - [ESTools by comnom](https://github.com/comnom/ES-tools) - A collection of python scripts for working with ES datafiles. Includes a functional datafile parser.
 - [zifnab](https://github.com/realityforge/zifnab) - A java library for reading and writing ES datafiles.
+- [endless-sky-viewer](https://github.com/robot-rover/endless-sky-viewer) - A program that displays informations for all ships & outfits.
 
 **[`^        back to top        ^`](#)**
 
